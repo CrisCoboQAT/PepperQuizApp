@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
      * green if correct or red if incorrect.
      *
      * @param optionsComponent      Component containing all options of the question
-     * @param correctAnswerChecked  Boolean corresponding to the answer correct or incorrect
+     * @param correctAnswerChecked  Boolean corresponding to the correct or incorrect answer
      * @param answer                The complete answer of the question
      */
     private void handleQuestions(View optionsComponent, Boolean correctAnswerChecked,
